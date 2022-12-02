@@ -31,3 +31,15 @@ npm init @eslint/config
 √ What quotes do you use for strings? · double
 √ What line endings do you use? · unix
 √ Do you require semicolons? · No / Yes
+
+
+# Necessária instalação do debugger
+
+yarn add debug --save
+https://www.npmjs.com/package/debug
+
+
+# Instalando pacote de fontes
+
+yarn expo install expo-font
+- Utilizando o Text.ts para criar o fonts "globais" para aplicação.
